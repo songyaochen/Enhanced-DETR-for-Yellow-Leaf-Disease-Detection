@@ -1,0 +1,53 @@
+{
+    "os": "Windows-10-10.0.19045-SP0",
+    "python": "3.10.13",
+    "heartbeatAt": "2023-10-23T15:15:39.075786",
+    "startedAt": "2023-10-23T15:15:38.021778",
+    "docker": null,
+    "cuda": null,
+    "args": [
+        "--output_dir",
+        "exps/mb-v3L_ddetr",
+        "--backbone",
+        "mobilenet",
+        "--batch_size",
+        "2"
+    ],
+    "state": "running",
+    "program": "<python with no main file>",
+    "codePathLocal": null,
+    "host": "WIN-20200823NBO",
+    "username": "Administrator",
+    "executable": "D:\\Program\\Anaconda\\envs\\DETR\\python.exe",
+    "cpu_count": 8,
+    "cpu_count_logical": 16,
+    "cpu_freq": {
+        "current": 3801.0,
+        "min": 0.0,
+        "max": 3801.0
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 3801.0,
+            "min": 0.0,
+            "max": 3801.0
+        }
+    ],
+    "disk": {
+        "/": {
+            "total": 931.4960899353027,
+            "used": 832.275447845459
+        }
+    },
+    "gpu": "NVIDIA GeForce GTX 1080 Ti",
+    "gpu_count": 1,
+    "gpu_devices": [
+        {
+            "name": "NVIDIA GeForce GTX 1080 Ti",
+            "memory_total": 11811160064
+        }
+    ],
+    "memory": {
+        "total": 15.927337646484375
+    }
+}

@@ -1,0 +1,4 @@
+1. The Aconda file of the project's configuration environment is named DETR.yaml in the root directory of the folder
+2. Run bash efficientnet.sh resnet.sh and mobilenet.sh for training
+3. The data set is in coco-datasets
+4. The function to get the scores/recall image is in until DOC
