@@ -62,10 +62,11 @@ path/to/coco/
 ```
 
 <img src="./Train.JPG" height="75%" width="75%">
+
 ## Backbone
 
-<img src="./Train.JPG" height="75%" width="75%">
-<img src="./Train.JPG" height="75%" width="75%">
+<img src="./Res.png" height="75%" width="75%">
+<img src="./mob.png" height="75%" width="75%">
 <img src="./eff.png" height="75%" width="75%">
 
 # Training
