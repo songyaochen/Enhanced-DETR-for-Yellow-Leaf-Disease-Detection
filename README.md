@@ -64,9 +64,13 @@ path/to/coco/
 <img src="./Train.JPG" height="75%" width="75%">
 
 ## Backbone
-
+### ResNet-50
 <img src="./Res.png" height="75%" width="75%">
+
+### MobileNet
 <img src="./mob.png" height="75%" width="75%">
+
+### EfficiencyNet
 <img src="./eff.png" height="75%" width="75%">
 
 # Training
