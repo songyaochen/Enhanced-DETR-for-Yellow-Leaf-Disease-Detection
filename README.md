@@ -61,7 +61,7 @@ path/to/coco/
     └── instances_val2017.json
 ```
 
-<img src=".Train.JPG" height="75%" width="75%">
+<img src="./Train.JPG" height="75%" width="75%">
 
 # Training
 ```bash
