@@ -4,7 +4,7 @@ SSY340 final project from Chalmers Technology of University
 <br />
 <div align="center">
   <a href="">
-    <img src="output.png" alt="Logo" width="1000">
+    <img src="output.png" alt="Logo" width="600">
   </a>
 
 
