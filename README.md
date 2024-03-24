@@ -10,8 +10,8 @@ SSY340 final project from Chalmers Technology of University
 
   <p align="center">
     <br />
-    <a href="./SSY236_presentation_group2.pptx">Explore the docs</a>
+    <a href="./POSTER (1).pdf">Explore the Poster</a>
     ·
-    <a href="https://youtu.be/jShlLz6bswQ">View Demo</a>
+    <a href="./Final_report.pdf">View the report</a>
   </p>
 </div>
